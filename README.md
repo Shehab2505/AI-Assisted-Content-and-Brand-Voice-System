@@ -38,7 +38,7 @@ Campaign targets are planning benchmarks and should be adjusted after reviewing 
 - Workflow quality: 30 draft content items generated and reviewed before any are scheduled or published.
 
 ## Instructor
-[Add instructor name]
+Andrew Atef
 
 ## Project Files
 - Project document: [Add Google Drive or other share link]
